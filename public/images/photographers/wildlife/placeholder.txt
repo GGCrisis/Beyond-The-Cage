@@ -1,0 +1,25 @@
+Place wildlife photographs in their respective photographer directories:
+
+/wildlife/sudhir-shivaram/
+- tiger.jpg (Royal Bengal Tiger photo)
+
+/wildlife/shaaz-jung/
+- black-panther.jpg (Black Panther of Kabini photo)
+
+/wildlife/dhritiman-mukherjee/
+- snow-leopard.jpg (Himalayan Snow Leopard photo)
+
+/wildlife/rathika-ramasamy/
+- birds.jpg (Birds of India photo)
+
+/wildlife/kalyan-varma/
+- conservation.jpg (Wildlife Conservation photo)
+
+Recommended image specifications:
+- Landscape format (16:9 aspect ratio recommended)
+- Minimum resolution: 1920x1080 pixels
+- Format: JPG or PNG
+- Max file size: 2MB
+- Optimize for web viewing while maintaining quality
+
+Note: Each image should be placed in its respective photographer's directory following the naming convention shown above.

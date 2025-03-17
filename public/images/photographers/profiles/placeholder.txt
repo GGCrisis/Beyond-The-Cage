@@ -1,0 +1,12 @@
+Place photographer profile images here with the following naming convention:
+- sudhir-shivaram.jpg
+- shaaz-jung.jpg
+- dhritiman-mukherjee.jpg
+- rathika-ramasamy.jpg
+- kalyan-varma.jpg
+
+Recommended image specifications:
+- Square format (1:1 aspect ratio)
+- Size: 400x400 pixels
+- Format: JPG or PNG
+- Max file size: 200KB
